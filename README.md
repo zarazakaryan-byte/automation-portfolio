@@ -1,7 +1,7 @@
 # automation-portfolio
 Automation projects built with Make and n8n — workflows for AI and business process automation.
 # Automation Portfolio
-
+[scenario](screenshot.png)
 No-code automation projects built with Make and n8n.
 
 ## Project 1 — Daily Currency Rates Tracker
